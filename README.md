@@ -91,12 +91,7 @@ I saved checkpoints and inspected outputs frequently because this project was ab
 Some outputs are noisy/blurry — this is expected for this setup.
 
 ### AI7 output example
-If you have the folder in the repo, you can embed outputs like this:
-
 ![AI7 output sample](AI7/OUT_{str(id_)}.png)
-
-> If your filename differs (or you have multiple outputs), just update the path.  
-> Example: `AI7/OUT_200.png`, `AI7/OUT_400.png`, etc.
 
 ---
 
